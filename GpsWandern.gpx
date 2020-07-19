@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx version="1.1" creator="GORP (V2.2.2) - GPS Online Routen Planer auf GpsWandern.de - http://www.gpswandern.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:topografix="http://www.topografix.com/GPX/Private/TopoGrafix/0/1" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+ <metadata>
+  <time>2020-07-19T14:01:13Z</time>
+  <bounds minlat="48.1187726" minlon="11.5260514" maxlat="48.3014104" maxlon="11.5926176"/>
+ </metadata>
+ <rte>
+  <name>Route1</name>
+  <rtept lat="48.133305" lon="11.5908674">
+   <name>R101</name>
+  </rtept>
+  <rtept lat="48.1187726" lon="11.5852659">
+   <name>R102</name>
+  </rtept>
+  <rtept lat="48.1319498" lon="11.5698164">
+   <name>R103</name>
+  </rtept>
+  <rtept lat="48.1384799" lon="11.5636365">
+   <name>R104</name>
+  </rtept>
+  <rtept lat="48.140413" lon="11.5344439">
+   <name>R105</name>
+  </rtept>
+  <rtept lat="48.1538137" lon="11.5370188">
+   <name>R106</name>
+  </rtept>
+  <rtept lat="48.1588524" lon="11.5471468">
+   <name>R107</name>
+  </rtept>
+  <rtept lat="48.1610281" lon="11.5631113">
+   <name>R108</name>
+  </rtept>
+  <rtept lat="48.1745091" lon="11.5668526">
+   <name>R109</name>
+  </rtept>
+  <rtept lat="48.2141021" lon="11.5260514">
+   <name>R110</name>
+  </rtept>
+  <rtept lat="48.3014104" lon="11.5926176">
+   <name>R111</name>
+  </rtept>
+ </rte>
+</gpx>
+ 

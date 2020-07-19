@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MEDIA-TOURS" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+<name>Dateiname</name>
+<rtept lat="50.09648432054457" lon="8.676217064173478">
+<name>Dateiname_0</name>
+</rtept>
+<rtept lat="50.12514265212" lon="8.94005339509396">
+<name>Dateiname_1</name>
+</rtept>
+<rtept lat="50.03954939843916" lon="8.976871687561623">
+<name>Dateiname_2</name>
+</rtept>
+<rtept lat="49.96010303526891" lon="8.960392195374123">
+<name>Dateiname_3</name>
+</rtept>
+<rtept lat="49.892912734092896" lon="8.861515242249123">
+<name>Dateiname_4</name>
+</rtept>
+<rtept lat="49.87385991977628" lon="8.655474273922241">
+<name>Dateiname_5</name>
+</rtept>
+</rte>
+</gpx>
